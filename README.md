@@ -8,7 +8,7 @@
 🇰🇷 __Seoul, South Korea__  
 🏫 Undergraduate student of __Seoul National University (2017 ~ )__  
 📚 Electrical and Computer Engineering (2017 ~ )  
-📚 Human-Computer Interaction (2023 ~ )
+📚 Information Science (2023 ~ )
   
 </div>
 
