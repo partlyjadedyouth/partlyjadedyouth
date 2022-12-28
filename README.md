@@ -3,7 +3,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=partlyjadedyouth&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi👋 &nbsp; This is __Joonyoung Park__. 
-[Instagram](https://www.instagram.com/partlyjadedyouth/) | [Film Photography](https://www.instagram.com/mieserfotograf/) | [RYM](https://rateyourmusic.com/~Proshuto)  
+[Blog](https://partlyjadedyouth.github.io)|[Instagram](https://www.instagram.com/partlyjadedyouth/) | [Film Photography](https://www.instagram.com/mieserfotograf/) | [RYM](https://rateyourmusic.com/~Proshuto)  
     
 🇰🇷 __Seoul, South Korea__  
 🏫 Undergraduate student of __Seoul National University (2017 ~ )__  
