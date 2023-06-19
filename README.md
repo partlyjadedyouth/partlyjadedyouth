@@ -5,8 +5,8 @@
     
 🇰🇷 __Seoul, South Korea__  
 🏫 Undergraduate student of __Seoul National University (2017 ~ )__  
-📚 Electrical and Computer Engineering (2017 ~ )  
-📚 Communication - Information Science (2023 ~ )
+📚 Dept. of Electrical and Computer Engineering (2017 ~ )  
+📚 Dept. of Communication - Information Science (2023 ~ )
   
 </div>
 
