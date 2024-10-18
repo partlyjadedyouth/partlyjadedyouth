@@ -1,7 +1,7 @@
 <div align="center">
 
 ### Hi👋 &nbsp; This is __Joonyoung Park__. 
-[Blog](https://joonyoung.dev) | [Instagram](https://www.instagram.com/partlyjadedyouth/) | [Film Photography](https://www.instagram.com/mieserfotograf/) | [RYM](https://rateyourmusic.com/~Proshuto)  
+[Blog](https://joonyoung.dev) | [Instagram](https://www.instagram.com/partlyjadedyouth/) | [Film Photography](https://www.instagram.com/partlyjadedyesterdays/) | [RYM](https://rateyourmusic.com/~Proshuto)  
     
 🇰🇷 __Seoul, South Korea__  
 🏫 Undergraduate student of __Seoul National University (2017 ~ )__  
