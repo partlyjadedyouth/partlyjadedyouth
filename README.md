@@ -7,7 +7,9 @@
 
 🏫 __KAIST (2025-Present)__
 <br/>
-📚 M.S., Industrial Design (DxD Lab)
+📚 M.S., Industrial Design
+<br/>
+🧑🏻‍💻 DxD Lab
 
 🎓 __Seoul National University (2017-2024)__ 
 <br/>
