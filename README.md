@@ -7,7 +7,7 @@
 
 🏫 __KAIST (2025-Present)__
 <br/>
-📚 M.S., Industrial Design
+📚 Ph.D., Industrial Design
 <br/>
 🧑🏻‍💻 DxD Lab
 
@@ -21,7 +21,7 @@
 
 💡 __Research Interests__
 
-I want to contribute to creating a more __inclusive society__ where marginalized people can express themselves, communicate freely with others, and learn through technology.
+I aim to explore ways to improve technological accessibility and create new opportunities for marginalized people through multi-modal and cross-modal interactions.
 
 My research interests lie at the intersection of: 
 - __Human-Computer Interaction (HCI)__
