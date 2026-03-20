@@ -1,5 +1,5 @@
 ### Hi👋 &nbsp; This is __Joonyoung Park__. 
-[Blog](https://joonyoung.dev) | [Instagram](https://www.instagram.com/partlyjadedyouth/) | [Film Photography](https://www.instagram.com/partlyjadedyesterdays/) | [RYM](https://rateyourmusic.com/~Proshuto)  
+[Blog](https://joonyoung.me) | [Instagram](https://www.instagram.com/partlyjadedyouth/) | [Film Photography](https://www.instagram.com/partlyjadedyesterdays/) | [RYM](https://rateyourmusic.com/~Proshuto)  
 
 ---
     
