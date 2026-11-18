@@ -21,7 +21,7 @@
 
 💡 __Research Interests__
 
-I aim to explore ways to improve technological accessibility and create new opportunities for marginalized people through multi-modal and cross-modal interactions.
+I study how AI agents and multimodal generative systems reshape the ways people work and communicate with one another, and whose needs these changes fail to accommodate. Drawing on the lived experiences of people from diverse backgrounds, I establish user-centered criteria for AI embedded in the sociotechnical systems of everyday life and build systems that put these criteria into practice.
 
 My research interests lie at the intersection of: 
 - __Human-Computer Interaction (HCI)__
